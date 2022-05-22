@@ -1,7 +1,8 @@
 {"data":{"nodes":[{"id":"1","label":"bluejoe",
-                   "image":"https://bluejoe2008.github.io/bluejoe3.png",
                    "categories":["person"]},
-                  {"id":"2","label":"CNIC","image":"https://bluejoe2008.github.io/cas.jpg","categories":["organization"]},
-                  {"id":"3","label":"beijing","image":"https://bluejoe2008.github.io/beijing.jpg","categories":["location"]}],
+                  {"id":"2","label":"CNIC",
+                   "categories":["organization"]},
+                  {"id":"3","label":"beijing",
+                   "categories":["location"]}],
          "edges":[{"from":"1","to":"2","label":"work for"},
                   {"from":"1","to":"3","label":"live in"}]}}
