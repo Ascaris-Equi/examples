@@ -10,7 +10,7 @@
       {
         "label": "MEF2C",
         "value": 1,
-        "id": G1,
+        "id": 11,
         "categories": [
           "Gene"
         ],
@@ -19,7 +19,7 @@
       {
         "label": "NFAT and Cardiac Hypertrophy",
         "value": 1,
-        "id": P1,
+        "id": 21,
         "categories": [
           "Pathway"
         ],
@@ -28,10 +28,10 @@
      "edges":
    [
      {
-        "id": R1,
+        "id": 01,
         "label": "act on",
-        "from": G1,
-        "to": P1
+        "from": 11,
+        "to": 21
       },
     ]
   }
