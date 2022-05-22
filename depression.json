@@ -3,6 +3,6 @@
                   {"id":"29796","label":"UQCR10",
                    "categories":["Gene"]},
                   {"id":"01100","label":"Metabolic pathways",
-                   "categories":["location"]}],
+                   "categories":["Pathway"]}],
          "edges":[{"from":"29796","to":"00190","label":"Interact with"},
                   {"from":"29796","to":"01100","label":"Interact with"}]}}
