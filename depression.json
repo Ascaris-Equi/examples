@@ -22,10 +22,8 @@
         ],
         "info": "Calcineurin/NFAT coupling participates in pathological, but not physiological, cardiac hypertrophy"
       }],
-     "edges":
-   [
-     {
-        "id": 0001,
+     "edges":[{
+        "id": 3776,
         "label": "act on",
         "from": 11,
         "to": 21
