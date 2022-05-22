@@ -1,8 +1,8 @@
-{"data":{"nodes":[{"id":"1","label":"bluejoe",
+{"data":{"nodes":[{"id":"01","label":"bluejoe",
                    "categories":["person"]},
-                  {"id":"2","label":"CNIC",
+                  {"id":"02","label":"CNIC",
                    "categories":["organization"]},
-                  {"id":"3","label":"beijing",
+                  {"id":"11","label":"beijing",
                    "categories":["location"]}],
-         "edges":[{"from":"1","to":"2","label":"work for"},
-                  {"from":"1","to":"3","label":"live in"}]}}
+         "edges":[{"from":"01","to":"11","label":"work for"},
+                  {"from":"02","to":"11","label":"live in"}]}}
