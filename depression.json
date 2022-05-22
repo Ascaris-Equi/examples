@@ -3,14 +3,11 @@
     "Pathway": "生物通路",
     "Gene": "基因",
   },
-  "data": 
-  {
-    "nodes": 
-    [
-      {
+  "data": {
+    "nodes": [{
         "label": "MEF2C",
-        "value": 1,
-        "id": 11,
+        "value": 2,
+        "id": 1001,
         "categories": [
           "Gene"
         ],
@@ -19,12 +16,12 @@
       {
         "label": "NFAT and Cardiac Hypertrophy",
         "value": 1,
-        "id": 21,
+        "id": 2001,
         "categories": [
           "Pathway"
         ],
         "info": "Calcineurin/NFAT coupling participates in pathological, but not physiological, cardiac hypertrophy"
-      },
+      }],
      "edges":
    [
      {
