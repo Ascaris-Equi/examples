@@ -1,33 +1,7 @@
-{
-  "categories": {
-    "Pathway": "生物通路",
-    "Gene": "基因",
-  },
-  "data": {
-    "nodes": [{
-        "label": "MEF2C",
-        "value": 2,
-        "id": 1001,
-        "categories": [
-          "Gene"
-        ],
-        "info": "Control of mouse cardiac morphogenesis and myogenesis by transcription factor MEF2C"
-      },
-      {
-        "label": "NFAT and Cardiac Hypertrophy",
-        "value": 1,
-        "id": 2001,
-        "categories": [
-          "Pathway"
-        ],
-        "info": "Calcineurin/NFAT coupling participates in pathological, but not physiological, cardiac hypertrophy"
-      }],
-     "edges":[{
-        "id": 3776,
-        "label": "act on",
-        "from": 1001,
-        "to": 2001
-      }
-    ]
-  }
-}
+{"data":{"nodes":[{"id":"1","label":"bluejoe",
+                   "image":"https://bluejoe2008.github.io/bluejoe3.png",
+                   "categories":["person"]},
+                  {"id":"2","label":"CNIC","image":"https://bluejoe2008.github.io/cas.jpg","categories":["organization"]},
+                  {"id":"3","label":"beijing","image":"https://bluejoe2008.github.io/beijing.jpg","categories":["location"]}],
+         "edges":[{"from":"1","to":"2","label":"work for"},
+                  {"from":"1","to":"3","label":"live in"}]}}
