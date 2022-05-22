@@ -1,1 +1,38 @@
-
+{
+  "categories": {
+    "Pathway": "生物通路",
+    "Gene": "基因",
+  },
+  "data": 
+  {
+    "nodes": 
+    [
+      {
+        "label": "MEF2C",
+        "value": 1,
+        "id": G1,
+        "categories": [
+          "Gene"
+        ],
+        "info": "Control of mouse cardiac morphogenesis and myogenesis by transcription factor MEF2C"
+      },
+      {
+        "label": "NFAT and Cardiac Hypertrophy",
+        "value": 1,
+        "id": P1,
+        "categories": [
+          "Pathway"
+        ],
+        "info": "Calcineurin/NFAT coupling participates in pathological, but not physiological, cardiac hypertrophy"
+      },
+     "edges":
+   [
+     {
+        "id": R1,
+        "label": "act on",
+        "from": G1,
+        "to": P1
+      },
+    ]
+  }
+}
