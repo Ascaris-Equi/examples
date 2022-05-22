@@ -1,5 +1,6 @@
 {"data":{"nodes":[{"id":"108","label":"ADCY2",
-                   "categories":["Gene"]},
+                   "categories":["Gene"]
+                  "info":"Adenylate Cyclase 2"},
                   {"id":"00190","label":"Oxidative phosphorylation",
                    "categories":["Pathway"]},
                   {"id":"29796","label":"UQCR10",
