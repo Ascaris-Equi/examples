@@ -1,8 +1,8 @@
-{"data":{"nodes":[{"id":"01","label":"bluejoe",
-                   "categories":["person"]},
-                  {"id":"02","label":"CNIC",
-                   "categories":["organization"]},
-                  {"id":"11","label":"beijing",
+{"data":{"nodes":[{"id":"00190","label":"Oxidative phosphorylation",
+                   "categories":["Pathway"]},
+                  {"id":"29796","label":"UQCR10",
+                   "categories":["Gene"]},
+                  {"id":"01100","label":"Metabolic pathways",
                    "categories":["location"]}],
-         "edges":[{"from":"01","to":"11","label":"work for"},
-                  {"from":"02","to":"11","label":"live in"}]}}
+         "edges":[{"from":"29796","to":"00190","label":"Interact with"},
+                  {"from":"29796","to":"01100","label":"Interact with"}]}}
