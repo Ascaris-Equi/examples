@@ -25,8 +25,8 @@
      "edges":[{
         "id": 3776,
         "label": "act on",
-        "from": 11,
-        "to": 21
+        "from": 1001,
+        "to": 2001
       }
     ]
   }
