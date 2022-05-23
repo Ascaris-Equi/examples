@@ -16,12 +16,10 @@
                   {"id":"29796","label":"UQCR10",
                    "categories":["Gene"]},
                    "info":"Ubiquinol-Cytochrome C Reductase, Complex III Subunit X"},
- 
                   {"id":"00190","label":"Oxidative phosphorylation",
                    "categories":["Pathway"]},
                   {"id":"01100","label":"Metabolic pathways",
                    "categories":["Pathway"]}],
-
          "edges":[{"from":"29796","to":"00190","label":"Interact with"},
                   {"from":"29796","to":"01100","label":"Interact with"},
                   {"from":"108","to":"01100","label":"Interact with"},]}}
