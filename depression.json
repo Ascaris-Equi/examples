@@ -18,7 +18,7 @@
                    "info":"Ubiquinol-Cytochrome C Reductase, Complex III Subunit X"},
                   {"id":"3320","label":"HSP90AA1",
                    "categories":["Gene"],
-                   "info":"Ubiquinol-Cytochrome C Reductase, Complex III Subunit X"},
+                   "info":"Heat Shock Protein 90 Alpha Family Class A Member 1"},
                   {"id":"3356","label":"HTR2A",
                    "categories":["Gene"],
                    "info":"Ubiquinol-Cytochrome C Reductase, Complex III Subunit X"},
@@ -60,4 +60,6 @@
          
          "edges":[{"from":"29796","to":"00190","label":"Interact with"},
                   {"from":"29796","to":"01100","label":"Interact with"},
+                  {"from":"4715","to":"01100","label":"Interact with"},
+                  {"from":"7384","to":"01100","label":"Interact with"},
                   {"from":"108","to":"01100","label":"Interact with"}]}}
