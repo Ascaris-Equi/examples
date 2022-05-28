@@ -1,9 +1,4 @@
-{"categories": {
-    "person": "Compound",
-    "event": "Environmental factor",
-    "location": "Family"
-  },
-  "data":{"nodes":[
+{"data":{"nodes":[
 {"id":"PII phosphorylation","categories":"Compound","label":"PII phosphorylation"},
 {"id":"cAMP","categories":"Compound","label":"cAMP"},
 {"id":"cGMP","categories":"Compound","label":"cGMP"},
