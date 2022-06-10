@@ -1,11 +1,11 @@
-{"data":
 {"categories": 
 {
     "Compound": "Compound",
     "Environmental factor": "Environmental factor",
     "Gene": "Gene"
 },
-"nodes":[
+    "data":
+{"nodes":[
 {"id":"PII phosphorylation","categories":"Compound","label":"PII phosphorylation"},
 {"id":"cAMP","categories":"Compound","label":"cAMP"},
 {"id":"cGMP","categories":"Compound","label":"cGMP"},
