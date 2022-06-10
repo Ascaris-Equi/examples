@@ -2,9 +2,9 @@
 {
     "Compound": "Compound",
     "Environmental factor": "Environmental factor",
-    "Gene": "Gene"
-    "Operon" : "Operon"
-    "Pathway" : "Pathway"
+    "Gene": "Gene",
+    "Operon" : "Operon",
+    "Pathway" : "Pathway",
     "Protein" : "Protein"
 },
     "data":
